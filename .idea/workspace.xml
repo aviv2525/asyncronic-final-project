@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a08d0a6-bbe1-41ca-8cff-2d0a3a912999" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/cost.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/api.test.js" afterDir="false" />
-    </list>
+    <list default="true" id="3a08d0a6-bbe1-41ca-8cff-2d0a3a912999" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747156274518</updated>
-      <workItem from="1747156275607" duration="7980000" />
+      <workItem from="1747156275607" duration="8296000" />
     </task>
     <servers />
   </component>
